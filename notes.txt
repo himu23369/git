@@ -8,4 +8,4 @@
 
 -> git add .
 -> git commit -m "message here"
--> git status
+-> git status important
