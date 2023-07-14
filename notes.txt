@@ -1,0 +1,11 @@
+-> Git is free and open source version control system.
+
+-> Version control is managment of changes.
+
+-> Github is a website where we can host the repositories online.
+
+-> cd ~ instructs the system to navigate to the user's home directory.
+
+-> git add .
+-> git commit -m "message here"
+-> git status
